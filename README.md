@@ -16,7 +16,7 @@ API de gerenciamento de livros.
 * book.sql 
 
 
-##  Instalação e execução do projeto
+##  Instalação 
      npm install
 * criar banco de dados com o arquivo book.sql
 
